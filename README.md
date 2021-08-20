@@ -20,9 +20,9 @@ I grew up in a small island Southeast of the Philippines. I have always been fas
 I started Lambda School's Web Dev curriculum in January 2021 and since then, I have never felt so passionate about anything. I thrive on the critical-thinking and problem-solving skills this field requires. Over the last eight months, I always find myself practicing and making simple apps on top of Lambda Schools weekly project requirements. I love learning and I hope to find a place where people value passion to learn and grow as a web developer and as a person.
 
 ### Tech Stack ⚔️
-⚫ Frontend: HTML, CSS, JavaScript (ES6), React.js, Redux, Context, Material-UI
+⚫ Frontend: HTML, CSS, JavaScript (ES6), React.js, Redux, Context
 
-⚫ Backend: Node.js, Express, Knex, SQL, SQLite3
+⚫ Backend: Node.js, Express, RDBMS
 
 ⚫ Testing: Cypress, react-testing-library, Jest
 
