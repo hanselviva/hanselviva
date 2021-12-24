@@ -19,11 +19,5 @@ Hello, there! My name is Hansel. I grew up in a small island Southeast of the Ph
 
 I started Lambda School's Web Dev curriculum in January 2021 and since then, I have never felt more passionate about anything. I thrive on the required critical-thinking and problem-solving skills in this field. I love learning and I hope to find a place where people value passion to learn and grow as a web developer and as a person.
 
-### Tech Stack ⚔️
-⚫ Frontend: HTML, CSS, JavaScript (ES6), React.js, Redux, Context
 
-⚫ Backend: Node.js, Express, RDBMS
-
-⚫ Testing: Cypress, react-testing-library, Jest
-
-##### 📫 Contact: email me at hanselviva@gmail.com
+### 📫 Contact: email me at hanselviva@gmail.com ⚔️
