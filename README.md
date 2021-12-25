@@ -19,5 +19,6 @@ Hello, there! My name is Hansel. I grew up in a small island Southeast of the Ph
 
 I started Lambda School's Web Dev curriculum in January 2021 and since then, I have never felt more passionate about anything. I thrive on the required critical-thinking and problem-solving skills in this field. I love learning and I hope to find a place where people value passion to learn and grow as a web developer and as a person.
 
-
 ### 📫 Contact: email me at hanselviva@gmail.com ⚔️
+
+![Hansel's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanselviva&show_icons=true&theme=synthwave&hide=stars,issues&count_private=true)
