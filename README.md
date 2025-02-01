@@ -16,6 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-### 📫 Contact: email me at hanselviva@gmail.com ⚔️
-
 ![Hansel's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanselviva&show_icons=true&theme=synthwave&hide=stars,issues&count_private=true)
